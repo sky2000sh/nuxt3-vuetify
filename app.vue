@@ -11,7 +11,7 @@
       width="400"
       title="This is a title"
       subtitle="This is a subtitle"
-      text="This is content"
+      text="This is contents"
     ></v-card>
 
     <div class="mt-4 text-subtitle-2">With slots</div>
